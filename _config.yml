@@ -141,7 +141,7 @@ gitalk:
     owner: sskun
     repo: blog-comments
     clientID: 8eb1e5214c1de51a9b99
-    clientSecret: 561ea7aeeaa3123233ebb4f22edcec729641d71a
+    clientSecret: 90eadbc0c52c632b8923fc68ad2e289090c5b765
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
