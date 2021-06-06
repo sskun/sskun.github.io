@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: 抽象派大鱼
 subtitle: "一笑而过 ｜ 是人生的淡然"
 description: "一笑而过 ｜ 是人生的淡然"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+keywords: 一笑而过 ｜ 是人生的淡然
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -49,12 +49,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Yu Kun
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: sskun
+location: ShaiHai, China
+email: yukun@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -131,17 +131,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: sskun
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 8eb1e5214c1de51a9b99
+        client_secret: be875ae6a57862c857da72deeb316c850e6c6064
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: sskun
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: 8eb1e5214c1de51a9b99
+    clientSecret: be875ae6a57862c857da72deeb316c850e6c6064
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
@@ -158,7 +158,7 @@ simple_jekyll_search:
 #      Google      #
 # ---------------- #
 google:
-    analytics_id: UA-80669434-1
+    analytics_id: 
     adsense:
         footer: true
         sidebar: true 
