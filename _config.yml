@@ -53,7 +53,7 @@ author: Yu Kun
 organization: 
 organization_url: 
 github_username: sskun
-location: ShaiHai, China
+location: China
 email: yukun@gmail.com
 
 # ---------------- #
@@ -76,9 +76,9 @@ navs:
 #     href: /open-source/
 #     label: 开源
 
-  -
-    href: /wiki/
-    label: 维基
+  # -
+  #   href: /wiki/
+  #   label: 维基
 
   -
     href: /links/
@@ -130,18 +130,18 @@ comments_provider: gitalk
 disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: sskun
-    repo: blog-comments
-    oauth:
-        client_id: 8eb1e5214c1de51a9b99
-        client_secret: be875ae6a57862c857da72deeb316c850e6c6064
+# gitment:
+#     owner: sskun
+#     repo: blog-comments
+#     oauth:
+#         client_id: 8eb1e5214c1de51a9b99
+#         client_secret: 561ea7aeeaa3123233ebb4f22edcec729641d71a
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: sskun
     repo: blog-comments
     clientID: 8eb1e5214c1de51a9b99
-    clientSecret: be875ae6a57862c857da72deeb316c850e6c6064
+    clientSecret: 561ea7aeeaa3123233ebb4f22edcec729641d71a
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
