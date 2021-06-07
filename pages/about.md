@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 
+keywords: 
 comments: true
-menu: 关于
+menu: 
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+<!-- 我是马壮，码而生，码而立。
 
 仰慕「优雅编码的艺术」。
 
@@ -38,4 +38,4 @@ permalink: /about/
 <button class="btn btn-outline" type="button">{{ keyword }}</button>
 {% endfor %}
 </div>
-{% endfor %}
+{% endfor %} -->
