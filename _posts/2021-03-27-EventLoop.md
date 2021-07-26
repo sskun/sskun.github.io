@@ -9,7 +9,7 @@ keywords: Javascript, EventLoop
 
 ## JS 语言介绍
 > Javascript一种基于对象(object-based)和事件驱动(EventDriven)的简单的并具有安全性能的脚本语言。
-特点：解释型、基于对象、事件驱动、跨平台。弱类型 yukaili
+特点：解释型、基于对象、事件驱动、跨平台。弱类型
 
 #### 解释型语言
 
