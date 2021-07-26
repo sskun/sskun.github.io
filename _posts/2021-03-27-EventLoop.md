@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Javascript语言特点的理解和事件循环机制探讨
-categories: [Javascript,EventLoop]
-description: EventLoop,Javascript
-keywords: EventLoop,Javascript
+title: Javascript语言特点的理解和事件循环机制记录
+categories: [Javascript, EventLoop]
+description: EventLoop, Javascript
+keywords: EventLoop, Javascript
 ---
+
 
 ## JS 语言介绍
 > Javascript一种基于对象(object-based)和事件驱动(EventDriven)的简单的并具有安全性能的脚本语言。
@@ -86,6 +87,3 @@ console.log('5')
 
 
 ## Web Workers
-
-
-
