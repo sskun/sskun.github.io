@@ -1,9 +1,9 @@
 ---
 layout: post
-title: test
-categories: test
-description: test
-keywords: testtesttest
+title: Javascript语言特点的理解和事件循环机制探讨
+categories: Javascript
+description: Javascript\event loop\and Web Workers
+keywords: Javascript event loop
 ---
 
 ## JS 语言介绍
