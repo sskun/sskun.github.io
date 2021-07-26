@@ -2,7 +2,7 @@
 layout: post
 title: Javascript语言特点的理解和事件循环机制探讨
 categories: Javascript
-description: Javascript/eventLoop/WebWorkers
+description: Javascript/eventLoop\WebWorkers
 keywords: Javascript/eventLoop
 ---
 
