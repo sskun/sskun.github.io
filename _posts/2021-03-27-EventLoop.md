@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Javascript语言特点的理解和事件循环机制记录
-categories: test
-description: test
-keywords: test
+title: Javascript语言特点的理解和事件循环机制记录
+categories: [Javascript, EventLoop]
+description: Javascript, EventLoop
+keywords: Javascript, EventLoop
 ---
 
 
