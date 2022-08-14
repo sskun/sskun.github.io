@@ -16,5 +16,5 @@ keywords: keyword1, keyword2，搜索的关键词
 
 ```javascript
 // md文档加载图片的方法
-// ![image][https://kunyk.gitee.io/sansssimg/images/qrcode.jpg]
+// ![image](https://kunyk.gitee.io/sansssimg/images/qrcode.jpg)
 ```

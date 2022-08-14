@@ -12,7 +12,7 @@ keywords: webp, Service Workers, Service, 性能优化
 
 我们采用开发者工具观察 HTTP 请求头部，可以看出可以根据 Accept 头部来判断我们的浏览器是否支持 WebP 图片
 
-![image][https://kunyk.gitee.io/sansssimg/images/servicework/webp01.jpg]
+![image](https://kunyk.gitee.io/sansssimg/images/servicework/webp01.jpg)
 
 根据这个 Request Headers 里面的 Accept，我们可以判断是否支持使用 webp 格式的图片。我们需要注册一个 Service Worker。Service Worker 的一大特性就是，它们能够拦截网络请求，这样子，我们就能够完全控制响应内容。使用这个特性，我们能够监听 HTTP 头部，并决定如何做。
 
