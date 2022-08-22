@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 使用Service Workers技术 让网站响应式加载webp格式图片
-categories: [性能优化, javascript]
-description:
-keywords: webp, Service Workers, Service, 性能优化
+title: 使用Service Workers技术 让网站动态加载webp格式图片
+categories: [性能优化, Javascript]
+description: sansss前端博客前端技术博客-网站动态加载webp格式图片
+keywords: 前端博客,webp,ServiceWorkers, Service, 性能优化
 ---
 
-图片在现在的网站上随处可见且被广泛应用，所以优化图片可以对网站性能优化有很重要的帮助。相对于我们传统的 PNG/JPG 等格式图片，webp 格式的图片可以大大降低 size，但是 webp 存在兼容性，目前，Chrome、Opera 以及 Android 能够支持 WebP 格式，但 Safari 和 IE 尚未支持
+图片在现在的网站上随处可见且被广泛应用，所以优化图片可以对网站性能优化有很重要的帮助。相对于我们传统的 PNG/JPG 等格式图片，webp 格式的图片可以大大降低 size，但是 webp 存在兼容性，目前，Chrome、Opera 以及 Android 能够支持 WebP 格式，但 Safari 和 IE 尚未支持...
 
 ## Service Workers 技术实现响应式加载 webp 格式图片
 
