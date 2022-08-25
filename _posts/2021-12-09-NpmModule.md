@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Javascript 实现在给定区域随机生成圆形
-categories: [Javascript, Html]
-description: Javascript, Html
-keywords: 前端博客, Javascript, Html
+title: 如何开发和维护一个npm
+categories: [Javascript, Npm]
+description: Javascript, Npm
+keywords: Javascript, Npm
 ---
 
 以前开发过的一个npm包，是一个h5唤醒app的功能，最近优化代码顺便记录下如何开发一个npm包和如何维护包。
