@@ -6,7 +6,7 @@ description: Javascript, Html
 keywords: 前端博客, Javascript, Html
 ---
 
-以前开发过一个npm包，是一个h5唤醒app的功能，最近优化代码顺便记录下如何开发一个npm包和如何维护包。
+以前开发过的一个npm包，是一个h5唤醒app的功能，最近优化代码顺便记录下如何开发一个npm包和如何维护包。
 
 ### 创建项目
 
