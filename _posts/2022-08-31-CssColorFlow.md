@@ -8,4 +8,4 @@ keywords: Css,颜色的流动,色调
 
 CSS颜色的流动与色调变化记录
 
-(代码效果地址)[https://jsrun.net/pFPKp]
+[代码效果地址](https://jsrun.net/pFPKp)
