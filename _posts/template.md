@@ -1,11 +1,11 @@
 ---
 layout: post
-title: template page
+title: CSS-颜色的流动与色调变化
 categories: [cate1, cate2]
-description: some word here
+description:  CSS颜色的流动与色调变化
 keywords: keyword1, keyword2
 ---
 
-Content here
+CSS颜色的流动与色调变化记录
 
-layout post 固定设置
+
