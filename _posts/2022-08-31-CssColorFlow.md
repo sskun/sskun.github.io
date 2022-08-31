@@ -1,13 +1,11 @@
 ---
 layout: post
-title: template page
-categories: [CSS]
-description: some word here
-keywords: CSS, 动画,颜色流动
+title: CSS-颜色的流动与色调变化
+categories: [Css]
+description:  CSS颜色的流动与色调变化
+keywords: Css,颜色的流动,色调
 ---
 
-Content here
+CSS颜色的流动与色调变化记录
 
-layout post 固定设置
-
-[MDN](https://developer.mozilla.org/zh-CN/)
+(代码效果地址)[https://jsrun.net/pFPKp]
