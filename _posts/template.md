@@ -1,11 +1,13 @@
 ---
 layout: post
-title: CSS-颜色的流动与色调变化
-categories: [cate1, cate2]
-description:  CSS颜色的流动与色调变化
-keywords: keyword1, keyword2
+title: template page
+categories: [Javascript]
+description: some word here
+keywords: 11,22
 ---
 
-CSS颜色的流动与色调变化记录
+Content here
+
+layout post 固定设置
 
 
