@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Javascript语言特点的理解和事件循环机制记录
-categories: [Javascript, EventLoop]
+categories: [Javascript]
 description: Javascript, EventLoop
 keywords: Javascript, EventLoop
 ---
