@@ -13,8 +13,8 @@ keywords: Css,颜色的流动,色调
 
 ### 静态的渐变
 
-> 语法如下
-> 
+语法如下，[参考](https://developer.mozilla.org/zh-CN/docs/Web/CSS/gradient/linear-gradient)
+
 ```css
 .grad {
   background-color: #F07575; /* 不支持渐变的浏览器回退方案 */
@@ -37,4 +37,5 @@ keywords: Css,颜色的流动,色调
 
 [效果地址](https://jsrun.net/pFPKp)
 
-### 流动的背景色
+### 流动效果
+
