@@ -13,7 +13,7 @@ keywords: Css,颜色的流动,色调
 
 ### 静态的渐变
 
-语法如下，[参考](https://developer.mozilla.org/zh-CN/docs/Web/CSS/gradient/linear-gradient)
+语法如下，[参考MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/gradient/linear-gradient)
 
 ```css
 .grad {
