@@ -61,7 +61,8 @@ keywords: Css,颜色的流动,色调
 
 #### 方法二：利用放大背景色去实现
 
-代码如下,这个思路就是方法背景，然后利用background-position的位置移动然后形成视觉上移动的效果
+代码如下,这个思路就是方法背景，然后利用background-position的位置移动然后形成视觉上移动的效果，
+注意这个颜色的位置和比例
 
 ```css
 .static-colorful03{
