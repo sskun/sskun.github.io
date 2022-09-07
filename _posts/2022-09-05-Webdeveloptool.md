@@ -83,7 +83,9 @@ module.exports = {
 
 ### vscode 配置项文件 settings.json
 
->格式化快捷键：Windows：Shift + Alt + F。  mac：Shift + Option + F
+>格式化快捷键：Windows：Shift + Alt + F。  mac：Shift + Option + F
+
+建议更改更顺手的快捷键，因为有的时候项目里面每个人的开发风格不一样，所以格式化代码的时候可以手动格式化，如果是统一风格，可以自动格式化
 
 ```javascript
 { 
