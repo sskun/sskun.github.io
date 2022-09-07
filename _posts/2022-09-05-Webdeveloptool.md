@@ -86,7 +86,21 @@ module.exports = {
 >格式化快捷键：Windows：Shift + Alt + F。  mac：Shift + Option + F
 
 ```javascript
-{
+{ 
+    "editor.tabSize": 2,
+    "files.associations": {
+      "*.vue": "vue"
+    },
+    "search.exclude": {
+      "**/node_modules": true,
+      "**/bower_components": true,
+      "**/dist": true
+    },
+    "emmet.syntaxProfiles": {
+      "javascript": "jsx",
+      "vue": "html",
+      "vue-html": "html"
+    },
     "editor.formatOnSave": true, // 保存格式化代码
     "editor.fontSize": 12, // 文本字体大小
     "editor.wordWrap": "on", // 是否自动换行
@@ -104,13 +118,12 @@ module.exports = {
     "[less]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    git.mergeEditor:false, //打开当前冲突的状态的文件编辑器
+    "git.mergeEditor":false, //打开当前冲突的状态的文件编辑器
     "eslint.format.enable": true,// 是否看起eslint
     "editor.codeActionsOnSave": { 
         "source.organizeImports": true, //自动调整 import 语句相关顺序，能够让你的 import 语句按照字母顺序进行排列
     },
     "git.confirmSync": false,
-    "window.zoomLevel": 0,
     "editor.renderWhitespace": "boundary",
     "editor.cursorBlinking": "smooth",
     "editor.minimap.enabled": true,
@@ -118,7 +131,11 @@ module.exports = {
     "prettier.semi": false ,
     "prettier.singleQuote": true ,
     "prettier.trailingComma": "none" ,
-
+    "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}",
+    "window.zoomLevel": 0,
+    "editor.codeLens": true,
+    "editor.snippetSuggestions": "top",
+    "security.workspace.trust.untrustedFiles": "open",
 }
 ```
 暂时先按照这个配置设置，不懂的属性可以在 vscode 设置里面搜索属性值，会有详细介绍
