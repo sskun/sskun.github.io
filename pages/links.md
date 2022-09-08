@@ -26,4 +26,5 @@ permalink: /links/
   <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
   {% endif %}
 {% endfor %}
+  <li><a href="https://www.isqqw.com/homepage" target="_blank">Echart Demo 网站</a></li>
 </ul>
