@@ -4,6 +4,7 @@ title: CSS-颜色的流动与色调变化
 categories: [Css]
 description:  CSS颜色的流动与色调变化
 keywords: Css,颜色的流动,色调
+excerpt: 利用CSS实现背景色或者字体颜色的渐变和流动效果，linear-gradient属性和CSS内置函数hue-rotate使用记录，同时区分H5环境和rn唤醒下实现相同效果的不同开发方式
 ---
 
 利用CSS实现背景色或者字体颜色的渐变和流动效果，linear-gradient属性和CSS内置函数hue-rotate使用记录
