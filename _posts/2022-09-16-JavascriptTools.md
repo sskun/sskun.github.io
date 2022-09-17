@@ -3,6 +3,7 @@ layout: post
 title: JS工具函数助力高效开发
 categories: [Javascript]
 description: JS工具函数助力高效开发
+excerpt: 日常开发中，面对各种不同的需求，我们经常会用到以前开发过的一些工具函数，把这些工具函数收集起来，将大大提高我们的开发效率，本文主要记录并持续更新开发过程中用到的方法...
 keywords: Javascript
 ---
 
