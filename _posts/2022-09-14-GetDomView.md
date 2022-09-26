@@ -7,9 +7,28 @@ keywords: Javascript, ReactNative
 excerpt: 最近H5的项目中做了一些页面滚动顶部渐变和定位到对应的tab功能，就需要获取元素在视口里面的位置，滚动的距离等，同时最近rn项目也需要获取元素在视口里面的位置，就一起记录下
 ---
 
+## js 获取参数含义
+
+### getBoundingClientRect ( ) 返回值：对象 有6个属性
+```javascript
+  let elem = document.querySelector('div');
+  let rect = elem.getBoundingClientRect();
+  for (var key in rect) {
+    if(typeof rect[key] !== 'function') {
+      let para = document.createElement('p');
+      para.textContent  = `${ key } : ${ rect[key] }`;
+      document.body.appendChild(para);
+    }
+  }
+  // 得到的值 x : 146，y : 50，width : 440，height : 240，top : 50，right : 586，bottom : 290，left : 146 
+  // left（元素左侧相对于可视区左上角的距离）, right（元素右侧相对于可视区左上角的距离）,top（元素上边相对于可视区左上角的距离）
+  // bottom（元素下边相对于可视区左上角的距离）,width（可视宽度）,height（可视高度）
+
+```
+
 ## React Native中测量组件和视口顶部之间的距离方法
 
-measure()测量是根据view标签中的ref属性
+measure()测量是根据view标签中的ref属性，使用代码如下
 
 ```javascript
 class MyComponent extends React.Component {
