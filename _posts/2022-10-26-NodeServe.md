@@ -3,6 +3,7 @@ layout: post
 title: express+ejs实现前端打包后项目线上运行
 categories: [express,vue3,webpack]
 description: 通过express+ejs运行打包后的静态资源，搭建一个前端上线项目
+excerpt: 通过express+ejs运行打包后的静态资源，搭建一个前端上线项目
 keywords: express,ejs
 ---
 
