@@ -14,7 +14,7 @@ keywords: webpack
 
 首先我们对比webpack开启gzip格式打包后的文件和原来的打包文件大小差距还是很大的、
 
-![image](http://kunyk.gitee.io/sansssimg/images/optimize/gzip01.jpg)
+![image](http://sancn.gitee.io/sansssimg/images/optimize/gzip01.jpg)
 
 
 > 我们所说的GZIP压缩其实是HTTP压缩里面的一种压缩类型,HTTP 压缩就是以缩小体积为目的，对 HTTP 内容进行重新编码的过程。Gzip 的内核就是 Deflate，目前我们压缩文件用得最多的就是 Gzip。可以说，Gzip 就是 HTTP 压缩的经典例题。
@@ -22,7 +22,7 @@ keywords: webpack
 
 接下来我们来看一张浏览器实际请求示例
 
-![image](http://kunyk.gitee.io/sansssimg/images/optimize/gzip03.jpg)
+![image](http://sancn.gitee.io/sansssimg/images/optimize/gzip03.jpg)
 
 
 开启gzip只需要在 request headers  里面加 accept-encoding:gzip 即可开启
