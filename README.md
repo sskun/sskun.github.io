@@ -12,10 +12,10 @@ keywords: keyword1, keyword2，搜索的关键词
 
 #### 文章图片地址
 
-存储在 https://gitee.com/kunyk/sansssimg 这个仓库地址,后期图片可以维护在这里
-举例 ：https://kunyk.gitee.io/sansssimg/images/qrcode.jpg
+存储在 https://gitee.com/sancn/sansssimg 这个仓库地址,后期图片可以维护在这里
+举例 ：https://sancn.gitee.io/sansssimg/images/qrcode.jpg
 
 ```javascript
 // md文档加载图片的方法
-// ![image](https://kunyk.gitee.io/sansssimg/images/qrcode.jpg)
+// ![image](https://sancn.gitee.io/sansssimg/images/qrcode.jpg)
 ```
